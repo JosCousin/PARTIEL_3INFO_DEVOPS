@@ -26,6 +26,7 @@ Ce dépôt contient un projet Python simple avec :
 
 ***Attention à bien mettre votre repository en PUBLIC !***
 
-[Test](https://github.com/JosCousin/PARTIEL_3INFO_DEVOPS/blob/master/.github/workflows/Test.yml/badge.svg)
 
-[Lint](https://github.com/JosCousin/PARTIEL_3INFO_DEVOPS/blob/master/.github/workflows/Lint.yml/badge.svg)
+![Tests](https://github.com/JosCousin/PARTIEL_3INFO_DEVOPS/actions/workflows/Test.yml/badge.svg)
+
+![Tests](https://github.com/JosCousin/PARTIEL_3INFO_DEVOPS/actions/workflows/Test.yml/badge.svg)
